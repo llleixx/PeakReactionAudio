@@ -1,0 +1,7 @@
+{
+  "name": "PeakReactionAudio",
+  "version_number": "0.1.0",
+  "website_url": "https://github.com/llleixx/PeakReactionAudio",
+  "description": "Custom reaction sounds for player events, mixed into PEAK voice chat.",
+  "dependencies": ["BepInEx-BepInExPack_PEAK-5.4.75301"]
+}
